@@ -11,3 +11,16 @@ https://user-images.githubusercontent.com/104795182/209555279-bde1e4d9-c664-465b
 ### ✔ ContextAPI
 ### ✔ Hooks
 
+## 💻 Autor<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saagas-code">
+        <img src="https://avatars.githubusercontent.com/u/104795182?v=4" width="100px;" /><br>
+        <sub>
+          <b>Evander Inácio</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
